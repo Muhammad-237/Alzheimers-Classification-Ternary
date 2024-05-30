@@ -1,4 +1,4 @@
-# Alzheimers DDisease
+# Alzheimers Disease
 
 Alzheimer's disease is a brain disorder that slowly destroys memory and thinking skills, and can eventually make it difficult to perform simple tasks. It's the most common type of dementia, and usually starts slowly and worsens over time. Symptoms often first appear later in life, and can include:
 
